@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anjali.</h1>
 <h3 align="center">A passionate girl, want to achieve my best version.</h3>
 
+![Pixel Jeff X Divoom, Pixel Jeff.gif](https://github.com/anjalisoni-web/anjalisoni-web/blob/main/Pixel%20Jeff%20X%20Divoom%2C%20Pixel%20Jeff.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalisoni-web&label=Profile%20views&color=0e75b6&style=flat" alt="anjalisoni-web" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalisoni-web" alt="anjalisoni-web" /></a> </p>
